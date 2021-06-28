@@ -1,0 +1,27 @@
+
+body{
+  background-color: rgb(36, 67, 124)
+}
+div{
+  text-align: center;
+
+}
+img {
+ width: 300px;
+}
+h1{
+  background:rgba(163, 95, 17, 0.733);
+    color: rgb(73, 5, 31);
+}
+button{
+  margin-top: 20px;
+  cursor: pointer;
+  color:rgb(148, 148, 184);
+  background-color:rgb(11, 3, 44);
+  border-radius: 10em;
+  font-size: 15px;
+  text-decoration:underline;
+}
+p{
+   color:brown;
+}
